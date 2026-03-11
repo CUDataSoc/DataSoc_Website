@@ -4,7 +4,7 @@ title: "CU DataSoc"
 
 This is our website yay!
 
-Welcome to the Carleton University Data Science Society.
+Welcome to the Carleton University Data Science Society. We are awesome.
 
 ## Latest Articles
 
