@@ -1,17 +1,17 @@
 [
   {
-    "objectID": "pages/article1.html",
-    "href": "pages/article1.html",
-    "title": "First Article",
-    "section": "",
-    "text": "This is our first club article :P"
-  },
-  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
     "section": "",
     "text": "About this site"
+  },
+  {
+    "objectID": "blog/article1.html",
+    "href": "blog/article1.html",
+    "title": "First Article",
+    "section": "",
+    "text": "This is our first club article :P"
   },
   {
     "objectID": "index.html",
@@ -21,11 +21,18 @@
     "text": "This is our website yay!\nWelcome to the Carleton University Data Science Society. We are awesome."
   },
   {
-    "objectID": "index.html#latest-articles",
-    "href": "index.html#latest-articles",
+    "objectID": "index.html#latest-blog-posts",
+    "href": "index.html#latest-blog-posts",
     "title": "CU DataSoc",
-    "section": "Latest Articles",
-    "text": "Latest Articles"
+    "section": "Latest Blog Posts",
+    "text": "Latest Blog Posts"
+  },
+  {
+    "objectID": "blog.html",
+    "href": "blog.html",
+    "title": "Blog Posts",
+    "section": "",
+    "text": "Welcome to blog, where members can publish articles about their data science related interests, experiences, or really anything. To submit an post for consideration, please do something.\n\n\n\n\n\n\n\n\n\n\n\nFirst Article\n\n\nIntroduction blah blah.\n\n\n\nMeow\n\n\nMar 10, 2026\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "about/team.html",
@@ -33,12 +40,5 @@
     "title": "Our Team",
     "section": "",
     "text": "Kitty Cat\n\nPresident\n\nPresidential president things. Beloved founder.\n\n\n\n\n\nAlso a Cat\n\nVice President\n\nFocusing on focusing.\n\n\n\n\n\nThird Cat\n\nDirector\n\nVery important cat."
-  },
-  {
-    "objectID": "pages/articles.html",
-    "href": "pages/articles.html",
-    "title": "Articles",
-    "section": "",
-    "text": "Welcome to our club articles.\n\n\n\n\n\n\n\n\n\n\n\nFirst Article\n\n\nIntroduction blah blah.\n\n\n\nMeow\n\n\nMar 10, 2026\n\n\n\n\n\n\nNo matching items"
   }
 ]

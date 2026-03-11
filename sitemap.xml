@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://carletondatasoc.github.io/website/pages/article1.html</loc>
-    <lastmod>2026-03-11T18:04:05.230Z</lastmod>
+    <loc>https://carletondatasoc.github.io/website/about.html</loc>
+    <lastmod>2026-03-11T19:10:53.585Z</lastmod>
   </url>
   <url>
-    <loc>https://carletondatasoc.github.io/website/about.html</loc>
-    <lastmod>2026-03-11T18:04:05.229Z</lastmod>
+    <loc>https://carletondatasoc.github.io/website/blog/article1.html</loc>
+    <lastmod>2026-03-11T19:10:53.585Z</lastmod>
   </url>
   <url>
     <loc>https://carletondatasoc.github.io/website/index.html</loc>
-    <lastmod>2026-03-11T18:04:05.230Z</lastmod>
+    <lastmod>2026-03-11T19:10:53.585Z</lastmod>
+  </url>
+  <url>
+    <loc>https://carletondatasoc.github.io/website/blog.html</loc>
+    <lastmod>2026-03-11T19:10:53.585Z</lastmod>
   </url>
   <url>
     <loc>https://carletondatasoc.github.io/website/about/team.html</loc>
-    <lastmod>2026-03-11T18:04:05.229Z</lastmod>
-  </url>
-  <url>
-    <loc>https://carletondatasoc.github.io/website/pages/articles.html</loc>
-    <lastmod>2026-03-11T18:04:05.230Z</lastmod>
+    <lastmod>2026-03-11T19:10:53.585Z</lastmod>
   </url>
 </urlset>

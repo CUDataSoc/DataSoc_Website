@@ -2,26 +2,21 @@
 
 /* css style for navbar buttons */
 .navbar-nav .nav-link[href*="discord"] {
-  background-color: #5865F2;
+  background-color: #3d3d3f;
   color: white !important;
   border-radius: 6px;
   padding: 6px 12px;
   margin-left: 8px;
 }
-
-/*
-.navbar-nav .nav-link[href*="forms"] {
-  background-color: #2ecc71;
-  color: white !important;
-  border-radius: 6px;
-  padding: 6px 12px;
-  margin-left: 8px;
-}
-*/
 
 .navbar-nav .nav-link[href*="discord"]:hover,
 .navbar-nav .nav-link[href*="forms"]:hover {
   opacity: 0.85;
+}
+
+/* Navbar background */
+.navbar, .navbar-default {
+  background-color: #467946 !important; 
 }
 
 /* css style for team page*/ 
