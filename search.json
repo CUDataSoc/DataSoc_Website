@@ -1,0 +1,37 @@
+[
+  {
+    "objectID": "pages/article1.html",
+    "href": "pages/article1.html",
+    "title": "First Article",
+    "section": "",
+    "text": "This is our first club article :P"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "CU DataSoc",
+    "section": "",
+    "text": "This is our website yay!\nWelcome to the Carleton University Data Science Society."
+  },
+  {
+    "objectID": "index.html#latest-articles",
+    "href": "index.html#latest-articles",
+    "title": "CU DataSoc",
+    "section": "Latest Articles",
+    "text": "Latest Articles"
+  },
+  {
+    "objectID": "pages/articles.html",
+    "href": "pages/articles.html",
+    "title": "Articles",
+    "section": "",
+    "text": "Welcome to our club articles.\n\n\n\n\n\n\n\n\n\n\n\nFirst Article\n\n\nIntroduction blah blah.\n\n\n\nMeow\n\n\nMar 10, 2026\n\n\n\n\n\n\nNo matching items"
+  }
+]
