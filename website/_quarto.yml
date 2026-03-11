@@ -13,6 +13,13 @@ website:
             text: Team
       - href: pages/articles.qmd
         text: Articles
+    right:
+      - text: "Become a Member"
+        icon: person-plus
+        href: https://docs.google.com/forms/d/e/1FAIpQLSeh4zYoC1o6MtLc3_0RbsqXRE1UbtmK5XqcWGJOi5BboURciA/viewform 
+      - text: "Discord"
+        href: https://discord.gg/4RKwHYSCpN
+      
 
 
 format:
