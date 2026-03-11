@@ -1,0 +1,34 @@
+---
+title: "Our Team"
+---
+
+<div class="team-grid">
+
+<div class="team-member">
+<img src="../images/team_photos/test_pic.jpg" class="team-photo">
+
+<h3>Kitty Cat</h3>
+<strong>President</strong>
+
+<p>Presidential president things. Beloved founder.</p>
+</div>
+
+<div class="team-member">
+<img src="../images/team_photos/test_pic2.jpg" class="team-photo">
+
+<h3>Also a Cat</h3>
+<strong>Vice President</strong>
+
+<p>Focusing on focusing.</p>
+</div>
+
+<div class="team-member">
+<img src="../images/team_photos/test_pic2.jpg" class="team-photo">
+
+<h3>Third Cat</h3>
+<strong>Director</strong>
+
+<p>Very important cat.</p>
+</div>
+
+</div>
