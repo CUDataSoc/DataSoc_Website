@@ -1,0 +1,23 @@
+---
+title: "CU DataSoc"
+---
+
+This is our website yay!
+
+Welcome to the Carleton University Data Science Society.
+
+## Latest Articles
+
+::: {#latest-articles}
+:::
+
+```{=quarto}
+---
+listing:
+  contents: pages
+  sort: "date desc"
+  limit: 3
+  type: grid
+  excerpt-length: 20
+---
+

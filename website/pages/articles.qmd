@@ -1,0 +1,11 @@
+---
+title: "Articles"
+
+listing:
+  contents: .
+  sort: "date desc"
+  type: grid
+  fields: [title, date, author, description]
+---
+
+Welcome to our club articles.

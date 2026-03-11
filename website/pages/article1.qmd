@@ -1,0 +1,8 @@
+---
+title: "First Article"
+date: 2026-03-10
+author: "Meow"
+description: "Introduction blah blah."
+---
+
+This is our first club article :P

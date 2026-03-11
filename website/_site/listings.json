@@ -1,0 +1,15 @@
+[
+  {
+    "listing": "/pages/articles.html",
+    "items": [
+      "/pages/article1.html"
+    ]
+  },
+  {
+    "listing": "/index.html",
+    "items": [
+      "/pages/articles.html",
+      "/pages/article1.html"
+    ]
+  }
+]

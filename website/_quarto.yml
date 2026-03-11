@@ -1,0 +1,24 @@
+project:
+  type: website
+
+website:
+  title: "CU DataSoc"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - about.qmd
+      - href: pages/articles.qmd
+        text: Articles
+
+
+format:
+  html:
+    theme:
+      - cyborg
+      - brand
+    css: styles.css
+    toc: true
+
+
+
