@@ -7,7 +7,10 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - text: About
+        menu:
+          - href: about/team.qmd
+            text: Team
       - href: pages/articles.qmd
         text: Articles
 
@@ -15,7 +18,7 @@ website:
 format:
   html:
     theme:
-      - cyborg
+      - cosmo
       - brand
     css: styles.css
     toc: true

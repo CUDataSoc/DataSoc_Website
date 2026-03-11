@@ -4,7 +4,7 @@
     "href": "pages/articles.html",
     "title": "Articles",
     "section": "",
-    "text": "Welcome to our club articles.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nFirst Article\n\n\nIntroduction blah blah.\n\n\n\n\n\nMar 10, 2026\n\n\nMeow\n\n\n\n\n\nNo matching items"
+    "text": "Welcome to our club articles.\n\n\n\n\n\n\n\n\n\n\n\nFirst Article\n\n\nIntroduction blah blah.\n\n\n\nMeow\n\n\nMar 10, 2026\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "index.html",
@@ -33,5 +33,19 @@
     "title": "CU DataSoc",
     "section": "Latest Articles",
     "text": "Latest Articles"
+  },
+  {
+    "objectID": "about/team.html",
+    "href": "about/team.html",
+    "title": "Our Team",
+    "section": "",
+    "text": "Kitty Cat\n\nPresident\n\nPresidential president things. Beloved founder.\n\n\n\n\n\nAlso a Cat\n\nVice President\n\nFocusing on focusing.\n\n\n\n\n\nThird Cat\n\nDirector\n\nVery important cat."
+  },
+  {
+    "objectID": "about/team.html#executive-team",
+    "href": "about/team.html#executive-team",
+    "title": "Our Team",
+    "section": "",
+    "text": "President\nPresidential president things. Beloved founder."
   }
 ]
