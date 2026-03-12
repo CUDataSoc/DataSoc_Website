@@ -5,30 +5,30 @@ title: "Our Team"
 <div class="team-grid">
 
 <div class="team-member">
-<img src="../images/team_photos/test_pic.jpg" class="team-photo">
+<img src="../images/team_photos/ivy_hall.jpg" class="team-photo">
 
-<h3>Kitty Cat</h3>
+<h3>Ivy Hall</h3>
 <strong>President</strong>
 
-<p>Presidential president things. Beloved founder.</p>
+<p>Ivy is DataSoc's first president, and one of the first students to ever be enrolled in Carleton's Data Science program (Concentration in AI, with a minor in Math). She is currently in her third year of studies. R is her programming language of choice.</p>
 </div>
 
 <div class="team-member">
-<img src="../images/team_photos/test_pic2.jpg" class="team-photo">
+<img src="../images/team_photos/sofia_balaceanu.jpg" class="team-photo">
 
-<h3>Also a Cat</h3>
-<strong>Vice President</strong>
+<h3>Sofia Balaceanu</h3>
+<strong>Vice President Internal</strong>
 
-<p>Focusing on focusing.</p>
+<p>Sofia is a third year student in CAMS (Concetraion in Applied Statistics and Probability, Minor in History), and also volunteers for the Math & Stats Society. R is her favourite programming language.</p>
 </div>
 
 <div class="team-member">
-<img src="../images/team_photos/test_pic2.jpg" class="team-photo">
+<img src="../images/team_photos/tomas_mcnamer.jpg" class="team-photo">
 
-<h3>Third Cat</h3>
-<strong>Director</strong>
+<h3>Tomas McNamer</h3>
+<strong>Tech Lead</strong>
 
-<p>Very important cat.</p>
+<p>Tomas is a third year Math student, and also the president of the Math & Stats Society for the 2025/2026 academic year. Somewhat of a polyglot, he likes Python, Julia and R for data science problems.</p>
 </div>
 
 </div>
