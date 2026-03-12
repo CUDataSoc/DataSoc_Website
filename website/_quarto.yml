@@ -11,6 +11,8 @@ website:
         menu:
           - href: about/team.qmd
             text: Team
+          - href: about/faq.qmd
+            text: FAQ
       - href: blog.qmd
         text: Blog
     right:

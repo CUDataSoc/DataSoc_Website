@@ -1,0 +1,13 @@
+<div>
+
+---
+title: "FAQ"
+---
+
+</div>
+
+::: {.callout-tip collapse="true"}
+## Who can join DataSoc?
+
+DataSoc is open to all Carleton University students interested in data science, no matter your program.
+:::
