@@ -18,7 +18,7 @@
     "href": "blog.html",
     "title": "Blog Posts",
     "section": "",
-    "text": "Welcome to blog, where members can publish articles about their data science related interests, experiences, or really anything. To submit an post for consideration, please do something.\n\n\n\n\n\n\n\n\n\n\n\nFirst Article\n\n\nIntroduction blah blah.\n\n\n\nMeow\n\n\nMar 10, 2026\n\n\n\n\n\n\nNo matching items"
+    "text": "Welcome to blog, where members can publish articles about their data science related interests, experiences, or really anything. To submit an post for consideration, please do something.\n\n\n\n\n\n\n\n\n\n\n\nFirst blog post\n\n\nDataSoc’s first blog post.\n\n\n\nSofia Balaceanu\n\n\nMar 10, 2026\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "index.html",
@@ -37,9 +37,9 @@
   {
     "objectID": "blog/article1.html",
     "href": "blog/article1.html",
-    "title": "First Article",
+    "title": "First blog post",
     "section": "",
-    "text": "This is our first club article :P"
+    "text": "This is our first blog post!"
   },
   {
     "objectID": "about/faq.html",
