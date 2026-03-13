@@ -5,4 +5,4 @@ author: "DataSoc Team"
 description: "DataSoc's first blog post."
 ---
 
-This is our first blog post! 
+This is our first blog post!  How cool and awesome? Very cool and awesome.
